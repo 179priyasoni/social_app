@@ -15,7 +15,7 @@ import Image from "next/image";
 const StoriesData = [
   {
     id: 1,
-    userName: "Priyaa",
+    userName: "Priya",
     Profile: P_name,
   },
   {
